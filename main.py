@@ -1,4 +1,4 @@
-# auteur: Zhuo Han
+# auteur: Zhuo.H
 # class: 407
 # ce programme est un jeu de devinette de nombre
 
