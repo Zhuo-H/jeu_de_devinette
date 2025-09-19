@@ -1,1 +1,1 @@
-dasdasda
+print("hello world")
