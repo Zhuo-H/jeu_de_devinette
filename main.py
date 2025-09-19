@@ -9,8 +9,8 @@ def generator(smallest, biggest):
     g_answer = random.randint(smallest, biggest)
     return g_answer
 
-first = int(input("choisi le plus petit nombre"))
-last = int(input("choisi le plus grand nombre"))
+first = int(input("choisi le plus petit nombre: "))
+last = int(input("choisi le plus grand nombre: "))
 
 number = generator(first, last)
 tries = 0
