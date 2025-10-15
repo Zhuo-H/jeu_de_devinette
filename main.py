@@ -1,7 +1,8 @@
-# auteur: Zhuo.H
-# class: 407
-# ce programme est un jeu de devinette de nombre
-
+"""
+auteur: Zhuo.H
+class: 407
+ce programme est un jeu de devinette de nombre
+"""
 
 import random
 
